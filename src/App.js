@@ -80,7 +80,7 @@ function App() {
           }
         />
         <Route
-          path="/"
+          path="/Fakazon"
           element={
             <div>
               <Header />
