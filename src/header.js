@@ -16,7 +16,7 @@ function Header() {
 
     return (
         <div className="header">
-            <Link to="/">
+            <Link to="/Fakazon">
                 <img
                     alt="header logo"
                     className="header__logo"
