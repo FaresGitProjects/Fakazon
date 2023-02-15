@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fakazon/static/css/main.6317d74b.css",
+    "main.js": "/Fakazon/static/js/main.c1aaa059.js",
+    "index.html": "/Fakazon/index.html",
+    "main.6317d74b.css.map": "/Fakazon/static/css/main.6317d74b.css.map",
+    "main.c1aaa059.js.map": "/Fakazon/static/js/main.c1aaa059.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6317d74b.css",
+    "static/js/main.c1aaa059.js"
+  ]
+}
